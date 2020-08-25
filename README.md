@@ -10,3 +10,9 @@ ReactApp (Redux) (project-ui)
     * A project can have multiple branches
     * A branch can belong to multiple projects.
 * Tap the project to show the project branches
+
+
+Steps to run the code
+* npm i (on root node)
+* npm i (on client node)
+* npm run dev (on root node)
